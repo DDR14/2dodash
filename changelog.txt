@@ -1,0 +1,665 @@
+commit a8bea0f497d726b2be343121e944894ee35235a1
+
+Mon Mar 7 10:20:42 2016 +0800
+
+    removed designer, fixed recalling artwork
+
+commit 2290b778a959da6fb22e87b8013708fa5a44468b
+
+Fri Feb 19 10:24:19 2016 +0800
+
+    finished qrequest and internal messaGING
+
+commit c760e8845f0b886b5c62bd939ef0b2e20913818c
+
+Wed Feb 17 16:55:22 2016 +0800
+
+    messages workin with icons except reply and forward
+
+commit 5bb8d38be5452d024d413f9c02ed76ae200aeb6c
+
+Tue Feb 16 07:23:26 2016 +0800
+
+    starting notes for staff tracking, finished tax exemption
+
+commit d92fc22a00ef4dd00024dbe13f200849dd75af94
+
+Mon Feb 15 09:37:30 2016 +0800
+
+    tax exempt, messages commands, time tracker date fix
+
+commit 2cd2ff0186a6756d234b5f8f5469344595966c44
+
+Tue Feb 9 16:14:44 2016 +0800
+
+    >credits and refunds shouldnt be ignored in computation - done
+    
+    >payment should have the refund button not the credit - done
+    
+    >credits should be editable - ok
+    
+    >apply balance on order with credits - X not necessary
+    
+    >file attachments on payments, credit, and refund - done
+
+commit 4259cfbf976205e922610502d6765e8e7696bde2
+
+Mon Feb 8 11:32:33 2016 +0800
+
+    finished refunding. polished crediting system
+
+commit 82cbe86f0f3735b4d45890ab3710dde25ec6c428
+
+Thu Feb 4 15:54:03 2016 +0800
+
+    quickbooks like accounting finished beta, style changes
+
+commit 314b9a57cc34c05b1893760b516ac7b24bd6487d
+
+Tue Feb 2 11:47:27 2016 +0800
+
+    check should go directly, shipping alert, messages module update
+
+commit a3b6b994eebe5c80d1c6ebee23ee244a70a577c1
+
+Mon Feb 1 14:12:46 2016 +0800
+
+    added tiny mce, with ajax functionality
+
+commit d0fe41170a9cc51aa932ae42c7b8df5fe36b75ae
+
+Thu Jan 28 17:02:34 2016 +0800
+
+    messages module unfinished, entering new coupon unfinished, schools template modified to show images on outlook,
+
+commit fcb832309b4dd8973ba756cb8a5bfd1617140112
+
+Thu Jan 21 08:12:40 2016 +0800
+
+    refund final beta, removed ship_to as field to ppass to elavon,
+
+commit c1b7b0cbea5b1fdd153f5a74c1866e85f6bdcfa1
+
+Wed Jan 20 07:25:25 2016 +0800
+
+    delete option, refund ready
+
+commit 39c5fe38ab26a73f81fb792a79d9ab52654616b5
+
+Tue Jan 19 09:07:16 2016 +0800
+
+    use ccredit as refund
+
+commit 8727974e840e127c9cd901052e88ec3fc36ed6c4
+
+Fri Jan 15 17:31:12 2016 +0800
+
+    need to put transaction on charges record, separated elavon files
+
+commit 579001287535b898a7c41adc0a53c34b6f6b6107
+
+Fri Jan 15 14:10:28 2016 +0800
+
+    pre creation of refund module
+
+commit 6f29f684290ccee97949038da0815fe66c19f3a5
+
+Wed Jan 13 17:20:38 2016 +0800
+
+    jquery ui css updated with timepicker, time_tracker pop up page and javascript writing
+    wording and notes addition to viewcustomer page
+
+commit a2856b8fbb6cc0af43cd2ba00dc6cdd5a69ae938
+
+Wed Jan 13 07:53:36 2016 +0800
+
+    some important changes
+
+commit fdc75632f5b31c68f16a394723fbf8a5c2b14b24
+
+Thu Jan 7 07:41:11 2016 +0800
+
+    Finished deposit page, combined supervisor page and timetracker page into one, categories unfinished editing
+
+commit 049e0b14ee2a6089682ff4147a44fa62e98088be
+
+Tue Jan 5 07:48:54 2016 +0800
+
+    new deposit page, new supervisor page and time tracker, fixed elavon errors
+
+commit db8d09f148cb537930ed9cbabb3100fc13a5f30a
+
+Tue Dec 29 16:51:20 2015 +0800
+
+    orders report finished
+
+commit 771af7ff27bfb9fbd9e9cfe9317398997b1df0e4
+
+Tue Dec 29 07:14:25 2015 +0800
+
+    deposit finished, orders report almost finished
+
+commit 6433d246319d1481263dad9fcbaf0bff191f27c8
+
+Thu Dec 24 12:57:16 2015 +0800
+
+    major edits
+
+commit 62a28fed5db72dc72e39a831aada34d1f8a6a65a
+
+Wed Dec 23 16:48:35 2015 +0800
+
+    deposit module, changed ssp class to accept html select results, lotsa edits
+
+commit 1287544942125325b5382e3d2f7a8c57e95339ed
+
+Fri Dec 18 07:35:05 2015 +0800
+
+    no feedback so far, time tracker report finished
+
+commit 98b6399e3afb053e2bd2d8c449a63fe20f265550
+
+Tue Dec 15 10:13:52 2015 +0800
+
+    finished employee code, more bugs fix from michelle, ship by not ordering correctly
+
+commit 0fb663ddc88899ffecedb7dd5a20970bc615ba31
+
+Mon Dec 14 14:23:09 2015 +0800
+
+    revised time tracker,stepping stone: coded entry on update order
+
+commit ff16c3e43bc5c995e9845c862c1bed202e06b562
+
+Fri Dec 11 07:38:34 2015 +0800
+
+    partial shipment done
+
+commit 5cbeba790de106dd6622af1841a8dc97d5ea5547
+
+Thu Dec 10 13:32:18 2015 +0800
+
+    undeployed, shipping popup partial
+
+commit d15e01f54c30b8d7b45a546d827f0ef078f2c6c0
+
+Thu Dec 3 07:25:08 2015 +0800
+
+commit fdd99ee2c102d3e3eb52baf7c00872f076200dc8
+
+Tue Dec 1 08:08:48 2015 +0800
+
+    create order would redirect to new way, approve proof not working correctly, timeteacker beta done
+
+commit 6354ad88d62fee580d6eab59a4fd7f5a5538fdaf
+
+Wed Nov 25 07:41:06 2015 +0800
+
+    time tracker finished, add item order ' bug, some bugs fixed, view customer will update contact details for all his orders
+
+commit 66616d4d7af6002439698b5d54b357bd3cb00b29
+
+Mon Nov 23 07:57:46 2015 +0800
+
+    view customer finished, longest SQL statement ever
+
+commit 4fe9a0bb51f60a808172d20befcbf8e0878b0bcb
+
+Fri Nov 20 07:09:10 2015 +0800
+
+    at home edits
+
+commit d54fd47d5eb9d7500879bd2db9a4084b55a8e6d4
+
+Mon Nov 16 14:27:18 2015 +0800
+
+    pre delegation, products name in invoice, send follow up to new orders only, final blue color, final customer listing, view customer pages
+
+commit 393bbb7c5a3701dc47cc0de487de0ea8a8599e0e
+
+Fri Nov 13 07:32:25 2015 +0800
+
+    SSP change for inner joins, number format on ajax orders, major color change, customer list
+
+commit 72268712277c21d904d64374459517818c9c41eb
+
+Thu Nov 12 08:11:18 2015 +0800
+
+    site redesign, new mask, staff report time total, payment made date
+
+commit 90feb1433c35df398c733ff750a44410a0b4410a
+
+Tue Nov 10 07:18:43 2015 +0800
+
+    staff report finished, removed cross domaining
+
+commit 25e557584a06da3aacdad395456572f1d15a5426
+
+Fri Nov 6 10:47:54 2015 +0800
+
+    staff reports update, staff projects update
+
+commit 29414da915254d585959371b6743b96f77cee5fd
+
+Thu Nov 5 11:56:46 2015 +0800
+
+    many edits on follow up saved timestamp, started quickbooks module, reset follow up
+
+commit b39ff7a1f72c2c8fe9e3e0f68baf2c72db7b8b01
+
+Mon Nov 2 08:41:33 2015 +0800
+
+    staff.php changes, images template update, ship by should not update when already set, dates can be changed on order progress
+
+commit 7104a4eb3a6dd8a46a7561228bf8639ecf772043
+
+Wed Oct 28 07:22:57 2015 +0800
+
+    more edits
+
+commit 8e14926da51fd4dbacf7037302f5920acb1130f6
+
+Fri Oct 23 15:44:32 2015 +0800
+
+    restructure of one time, cron jobs, email blast templates finished
+
+commit 2c3d4fd77d8813cd78457adb59123f3e089279ab
+
+Thu Oct 22 10:30:28 2015 +0800
+
+    many edits, email campaign, number_formats, proof settings
+
+commit de96c106d343b4a41ea77546eb4b0ef06a67f46c
+
+Mon Oct 19 07:49:08 2015 +0800
+
+    recomputing total, added feature for discount coupons
+
+commit ed27b304a31857323ef1cbc46f24073c5cbebe4f
+
+Tue Oct 6 07:36:16 2015 +0800
+
+    Proof list Charlie, lots of bugs and modifications
+
+commit 53591cbacee5f3706cbe79d8a4be8e64063ff435
+
+Fri Oct 2 17:49:11 2015 +0800
+
+    proof list BETA
+
+commit 19e4f3d70997b63a9a1c311bc920b91490773dd5
+
+Thu Oct 1 17:42:49 2015 +0800
+
+    finished beta
+
+commit d78d4ddb185494d95d257c42efb626db97cba534
+
+Thu Oct 1 07:21:41 2015 +0800
+
+    hubstaff project almost finished
+
+commit 957ab42ddaf3991f03ce7a48adb632fe0c8e0f9b
+
+Tue Sep 29 11:13:45 2015 +0800
+
+    many edits, new folder quantity change, hubstaff pre edits, popaid bugs
+
+commit 19db6f09deebdf76177a903461372f1feb572784
+
+Mon Sep 28 08:57:19 2015 +0800
+
+    restructure in preparation of accepting proofs
+
+commit c35596cdbd3145b4cb30f10d72e3c0e3e929c1df
+
+Fri Sep 25 10:11:05 2015 +0800
+
+    pre major update, delete charges also, staff mini changes, catalog search and NEW feature
+
+commit 735cfb06aec0ac93aae14a0b320d4f6218bc1c1f
+
+Thu Sep 24 06:33:16 2015 +0800
+
+    working beta for staff
+
+commit a9347b089f7c0514952ea5800bec0ee0874453cc
+
+Wed Sep 23 07:58:16 2015 +0800
+
+    extensive creation of staff module
+
+commit 2bf050431b18c5e5e93d7a3ce48cd98654cbac64
+
+Tue Sep 22 09:03:37 2015 +0800
+
+    staff module alpha
+
+commit ad20d226bdd21c5060ce8e77991dfde1b8a92b5c
+
+Mon Sep 21 10:49:00 2015 +0800
+
+    added require proofs field, caregories fix, header switch
+
+commit a9e0de722195e22111511930173177308fb83b2b
+
+Fri Sep 18 11:46:58 2015 +0800
+
+    fixed color profiles and color conversion beta, payment made to go to shipping when no proof
+
+commit dc1bf80188527631373279d27f50b3cf1842c43e
+
+Mon Sep 14 15:34:25 2015 +0800
+
+    Finally connecting hubstaff, manual updating of one time, sidebar design to accomodate multiple
+
+commit 79e26bcbba6c08b8939fa2b0f8ce5bf622a78b62
+
+Wed Sep 9 08:28:30 2015 +0800
+
+    catalog edits
+
+commit 4fbdd28edb52cd2979064349dc6f962f1fce769c
+
+Tue Sep 8 07:19:14 2015 +0800
+
+    close order, delete order feature
+
+commit 60b0c8e90b4e7a67f0af28d5bfbddb9376401153
+
+Mon Sep 7 13:51:33 2015 +0800
+
+    upload delete po update status beta
+
+commit 805d5cdb105ee23bf8b67c6dc3c8caf22cbdc92a
+
+Fri Sep 4 18:03:52 2015 +0800
+
+    MAJOR UPDATE, order status and ship by awesome updating
+
+commit fac4d45e447ddc2590899ddac6ceeb18ab5d3b6c
+
+Thu Sep 3 15:44:09 2015 +0800
+
+    PO and check logs on delete upload etc, restructured table added require_artwork column, billing address appears on credit card payment
+
+commit 5af6a98232969f1fdcbada5c4a78b4bf2fd6087a
+
+Wed Sep 2 09:36:29 2015 +0800
+
+    invoice finally fixed for good(taught michelle to just save it in pdf),  new mask sports, rename shipping folder, separated billing on credit card payment
+
+commit 033a978c4373d51fa66b6ae11adc1468b6246981
+
+Fri Aug 28 16:46:11 2015 +0800
+
+     Major ERROR messes up everything, additional items without proof added, trying to fix and coordinating.. 5+hours, recategorize products to not accept proof for some categories, non waste resource dashboard page, shipping orders folder, low order fee fix,
+
+commit a1db8e3f0a4ca2b76b97e65f7b98c38f1c895e8d
+
+Thu Aug 27 14:46:46 2015 +0800
+
+    ability to revert status once balance isnt 0, show link to online payment gateway always, restrict sending when proofs are not all uploaded, email edit
+
+commit e99a35baaa6bdf8d353ad0d66c7648cfd807c09f
+
+Wed Aug 26 16:25:57 2015 +0800
+
+    fix for uploading files, more accurate report of orders, help message for customers, order total to accept surplus
+
+commit 694bb358ad71d4f7279491adbba0f9849ca7fd6f
+
+Tue Aug 25 07:57:34 2015 +0800
+
+    vital fixes alpha, redirects from 404 when checking orders, incorrect dates on invoice, validation not working on createorder,
+
+commit 6a95dd12b89e3db169988ece679d60dc73995d78
+
+Thu Aug 20 16:50:55 2015 +0800
+
+    secure pop up payment baby! upload proof custom bug (not in test mode)
+
+commit 11fc12cb6e7899e1555e592140f4c8bb33c86266
+
+Wed Aug 19 13:48:52 2015 +0800
+
+    by who is logged in, converge update
+
+commit bf152c60edf9ee503a3ec8acfefcd59dc1be33a7
+
+Mon Aug 17 14:18:11 2015 +0800
+
+    logging with whoevers logged in.
+
+commit 80c62c43c91a6d248df0384e6144342498a2583e
+
+Mon Aug 17 11:28:08 2015 +0800
+
+    new check folder and PO modifications BETA, masks guitar edit
+
+commit bf975b2d3c81ef96f923f2389fab4c0d77e297ad
+
+Fri Aug 14 07:27:18 2015 +0800
+
+    new folder check and check input
+
+commit 2cc0f9db50335c71937b476df4b16b93594be003
+
+Tue Aug 11 12:31:58 2015 +0800
+
+    working dashboard credit card payment
+
+commit 210a2e373f15c33d2b5fdc6b06196194716a328f
+
+Mon Aug 10 16:23:13 2015 +0800
+
+    kinda figured out converge
+
+commit de19dda0d06a13be735c56a4d0c1f1037071ce92
+
+Mon Aug 10 09:23:19 2015 +0800
+
+    converge is working!!!!!
+
+commit b8fb08f21af7c73cbea6f2cfe6972c8dda29b7c4
+
+Thu Aug 6 15:22:30 2015 +0800
+
+    minor fixes, start check out by check/money
+
+commit 1b94b5a66be6984532e5fed69f9d1cd7e1129091
+
+Wed Aug 5 16:20:40 2015 +0800
+
+    minor changes, treeview now collapses, disables when shipped
+
+commit 6c5feb4ee2451c5dcd0a645cadb22b42063b9908
+
+Tue Aug 4 17:05:45 2015 +0800
+
+    new layout to support by item shipping,jquery shipping on submit, new status when product is shipped (next to artwork approved) also shows tracking and date information, shows which items are shipped on status history, the status only changes to shipped, only works when the order is in the shipping folder, old shipping method is left but still works
+
+commit 691faf4cc2e089f910ae6bdbb211f3a828aa3f29
+
+Mon Aug 3 17:03:17 2015 +0800
+
+    pre edited new layout, shipping per products
+
+commit 84b85e3ceb6f4c90509f7016a856b94e9747ca85
+
+Fri Jul 31 16:47:41 2015 +0800
+
+    batch price insert by category, complicated products discount quantity
+
+commit 93fb2c77336d38a9ebfaa5c40c7a7392e2ed3273
+
+Fri Jul 31 07:51:25 2015 +0800
+
+    in house feature
+
+commit 498ea4fc9ea7995f532d3cb6ed0841101e9429a9
+Author: deraj <deraj@user3>
+Thu Jul 30 11:57:41 2015 +0800
+
+    true	discount_qty.php	-/Added	Commit	2dodash\discount_qty.php
+    true	discount_qty_delete.php	-/Added	Commit	2dodash\discount_qty_delete.php
+    true	discount_qty_edit.php	-/Added	Commit	2dodash\discount_qty_edit.php
+    true	discount_qty_new.php	-/Added	Commit	2dodash\discount_qty_new.php
+    true	inc.header.php	-/Modified	Commit	2dodash\inc.header.php
+    true	private.xml	-/Modified	Commit	2dodash\nbproject\private\private.xml
+
+commit 731028a8b6eb1ae3418b7d3c50f3b61ed2cb286e
+
+Thu Jul 30 09:23:40 2015 +0800
+
+    bug on dashboard in lanyard found by michelle,TK masks, assisted graphics in new job, fixing bugs, pagination, delete note functionality,
+
+commit fd328d4c0a0e7adaa5eed29863470d13eef38714
+
+Tue Jul 28 14:58:28 2015 +0800
+
+    separate shipping of lanyards beta
+
+commit c1f4d6d72e384494385c029a9990132a9e01cd1e
+
+Fri Jul 24 16:02:56 2015 +0800
+
+    lanyard sidebar, new masks
+
+Thu Jul 23 10:55:00 2015 +0800
+
+    bug fixes, updated designers select box
+
+Wed Jul 22 07:21:49 2015 +0800
+
+    extra fields and tables made by bon
+
+Mon Jul 20 09:21:45 2015 +0800
+
+    bug fixes: quantity now reflects, deletes both psd and png files, copies the proof to new directory, images saving
+
+Fri Jul 17 15:45:23 2015 +0800
+
+    Update finish, delete, publish new designs, organized files, side nav,
+
+Fri Jul 17 07:08:45 2015 +0800
+
+    disregard function, CRUD pages, new header color, added fields first customer and get file, newdesign sidebar
+
+Thu Jul 16 07:32:44 2015 +0800
+
+    cascade delete features, adding a new product, newdesign page,
+
+Wed Jul 15 07:13:34 2015 +0800
+
+    catalog design alpha
+
+Mon Jul 13 13:57:21 2015 +0800
+
+    bug fix on image not showing, fixed headers
+
+Thu Jul 9 16:39:54 2015 +0800
+
+    added ship by notes feature, fixed not showing images, correct arrangement of new tag entry,
+
+Wed Jul 8 14:24:35 2015 +0800
+
+    fixed bugs on tax. updated numerous files
+
+Wed Jul 8 07:33:48 2015 +0800
+
+    file optimize, removing template traces, bug on order
+
+Tue Jul 7 16:15:46 2015 +0800
+
+    bugs on vieworder.php. calendar on it. adjusted ship by, sorting logic on dashboard
+
+Mon Jul 6 14:59:36 2015 +0800
+
+    new column, PO payment major updates
+
+Mon Jun 29 16:22:45 2015 +0800
+
+    fixed duplicating bugs, removed old PO number
+
+Mon Jun 29 06:53:24 2015 +0800
+
+    paypal rejected code
+
+Thu Jun 25 11:55:33 2015 +0800
+
+    Po folder. I guess POs are good now
+
+Thu Jun 18 09:48:59 2015 +0800
+
+    PO Charlie
+
+Wed Jun 17 06:50:23 2015 +0800
+
+    working PO
+
+Thu Jun 11 16:05:37 2015 +0800
+
+    SHIP BY
+
+Thu Jun 11 14:35:40 2015 +0800
+
+    Working Approve deny on dashoard
+
+Tue Jun 9 10:34:01 2015 +0800
+
+    fixed orders without customizations
+
+Mon Jun 8 07:09:39 2015 +0800
+
+    Upload Proof charlie
+
+Fri Jun 5 13:30:37 2015 +0800
+
+    Pop Ups working
+
+Fri Jun 5 07:31:11 2015 +0800
+
+    premature codes
+
+Wed Jun 3 14:34:26 2015 +0800
+
+    PO fixes
+
+Tue Jun 2 07:01:22 2015 +0800
+
+    updated one time charges (need to delete one time column) which affects a lot of files
+
+Mon Jun 1 09:13:37 2015 +0800
+
+    Masks and pop up configuration for proofs
+
+Thu May 28 08:46:02 2015 +0800
+
+    Michelle edits and bug fixes
+
+Wed May 27 07:10:37 2015 +0800
+
+    major updates
+
+Mon May 25 07:01:57 2015 +0800
+
+    got server css. fixing payment (beta)
+
+Fri May 22 08:39:31 2015 +0800
+
+    charges, PO, view order design
+
+Tue May 19 13:21:40 2015 +0800
+
+    ABility to Edit Payment
+
+Tue May 19 09:39:54 2015 +0800
+
+    Shipping, Billing and Customer Addresses are separated.
+
+Mon May 18 12:00:41 2015 +0800
+
+    -Working Tax Feature v1.0
+    -Recall Approval v1.0
+
