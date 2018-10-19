@@ -10,7 +10,18 @@ $primaryKey = 'a.products_id';
 // parameter represents the DataTables column identifier. In this case simple
 // indexes
 
-$columns = [array('db' => 'a.products_id', 'dt' => 0, 'field' => 'products_id'),
+
+ 
+if ($_GET['display'] == 'all' || $_GET['display']) {
+    $joinQuery = "FROM zen_designs a";
+    $columns = [array('db' => 'a.products_id', 'dt' => 0, 'field' => 'products_id'),
+    array('db' => 'a.design_name', 'dt' => 1, 'field' => 'design_name'),
+    array('db' => 'a.products_model', 'dt' => 2, 'field' => 'products_model'),
+    array('db' => 'a.products_image', 'dt' => 3, 'field' => 'products_image'),
+    array('db' => 'a.products_id', 'dt' => 4, 'field' => 'products_id')
+];
+} else{
+    $columns = [array('db' => 'a.products_id', 'dt' => 0, 'field' => 'products_id'),
     array('db' => 'a.design_name', 'dt' => 1, 'field' => 'design_name'),
     array('db' => 'a.products_model', 'dt' => 2, 'field' => 'products_model'),
     array('db' => 'a.products_image', 'dt' => 3, 'field' => 'products_image'),
@@ -20,7 +31,7 @@ $columns = [array('db' => 'a.products_id', 'dt' => 0, 'field' => 'products_id'),
     array('db' => 'b.expires_date', 'dt' => 7, 'field' => 'expires_date'),
     array('db' => 'b.dd_uses', 'dt' => 8, 'field' => 'dd_uses')
 ];
- 
+}
 
 require 'inc.ajax_db.php';
 

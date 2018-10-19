@@ -120,7 +120,13 @@ secure();
                     </h2>
                     <table class="data display dataTable" id="example">
                         <thead>
-                            <tr> 
+                            <tr> <?php if($display === 'all' || $display){ ?>
+                                <td>Id</td> 
+                                <td>Design Name</td>
+                                <td>Model Number</td> 
+                                <td>Image</td> 
+                                <td>Actions</td>
+                            <?php }else{  ?>
                                 <td>Id</td> 
                                 <td>Design Name</td>
                                 <td>Model Number</td> 
@@ -129,7 +135,7 @@ secure();
                                 <td>Price Discount</td>
                                 <td>Date Available</td>
                                 <td>Expiration Date</td>
-                                <td>Number of Customers Avail</td>
+                                <td>Number of Customers Avail</td><?php } ?>
                             </tr> 
                         </thead>
                         <tbody>                            
